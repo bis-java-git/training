@@ -1,0 +1,15 @@
+.idea/*
+.idea/**
+*.iml
+*.ipr
+*.iws
+*/target/**
+*/logs/**
+*/test.log/**
+./logs/**
+./sachin/**
+./idea/libraries/**
+./.idea/workspace.xml
+./.idea/profiles-settings.xml
+./idea/copyright/**
+./idea/copyright/*
